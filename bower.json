@@ -1,6 +1,6 @@
 {
   "name": "ember-table-shim",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Shim for ember table.",
   "main": "ember-table.js",
   "keywords": [
