@@ -7,6 +7,11 @@
     "ember",
     "ember-table"
   ],
+  "ignore": [
+    "LICENSE",
+    "README.md",
+    "bower.json"
+  ],
   "dependencies": {
     "antiscroll": "fa3f81d3c07b647a63036da1de859fcaf1355993",
     "bootstrap": "3.0.0",
