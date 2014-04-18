@@ -15,7 +15,6 @@
   "dependencies": {
     "antiscroll": "fa3f81d3c07b647a63036da1de859fcaf1355993",
     "bootstrap": "3.0.0",
-    "d3": "3.2.7",
     "ember": "1.4.0",
     "handlebars": "1.3.0",
     "jquery": "1.10.2",
