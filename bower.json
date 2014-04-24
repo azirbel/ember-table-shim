@@ -2,10 +2,14 @@
   "name": "ember-table-shim",
   "version": "0.1.2",
   "description": "Shim for ember-table.",
-  "main": "ember-table.js",
   "keywords": [
     "ember",
     "ember-table"
+  ],
+  "main": [
+    "./dist/ember-table.css",
+    "./dist/ember-table.js",
+    "./dist/ember-table.min.js"
   ],
   "ignore": [
     "LICENSE",
